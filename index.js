@@ -41,6 +41,13 @@ bot.on('text', async msg => {
           resize_keyboard: true,
         },
       });
+      await bot.sendMessage(
+          msg.chat.id,
+          `Веб-версия портфолио: <a href="https://evgeny-dogonadze.vercel.app">https://evgeny-dogonadze.vercel.app</a>`,
+          {
+            parse_mode: 'HTML',
+          },
+      );
     } else if (msg.text === 'Обо мне') {
       await bot.sendMessage(
         msg.chat.id,
