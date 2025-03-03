@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-bot",
+  "version": "1.0.0",
+  "description": "Бот для телеграмм, для демонстрации моего портфолио.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "portfolio-bot"
+  },
+  "author": "Evgeny Dogonadze",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  }
+}
