@@ -100,6 +100,7 @@ WebSockets: Реализую создаю интерактивные функц�
                 `<b>Dart</b>\nСтек: HTML, CSS, JavaScript, Gulp\nКод: <a href="https://github.com/Skullage/Dart">https://github.com/Skullage/Dart</a>\nДемо: <a href="https://skullage.github.io/Dart/">https://skullage.github.io/Dart/</a>`,
                 {
                     parse_mode: 'HTML',
+                    disable_web_page_preview: true,
                 },
             );
             await bot.sendPhoto(
@@ -112,6 +113,7 @@ WebSockets: Реализую создаю интерактивные функц�
                 `<b>Delivery</b>\nСтек: HTML, CSS, JavaScript, Gulp\nКод: <a href="https://github.com/Skullage/Delivery">https://github.com/Skullage/Delivery</a>\nДемо: <a href="https://skullage.github.io/Delivery/">https://skullage.github.io/Delivery/</a>`,
                 {
                     parse_mode: 'HTML',
+                    disable_web_page_preview: true,
                 },
             );
             await bot.sendPhoto(
@@ -124,6 +126,7 @@ WebSockets: Реализую создаю интерактивные функц�
                 `<b>Le Corte</b>\nСтек: HTML, CSS, JavaScript, Gulp\nКод: <a href="https://github.com/Skullage/LeCorte">https://github.com/Skullage/LeCorte</a>\nДемо: <a href="https://skullage.github.io/LeCorte/">https://skullage.github.io/LeCorte/</a>`,
                 {
                     parse_mode: 'HTML',
+                    disable_web_page_preview: true,
                 },
             );
             await bot.sendPhoto(
@@ -136,6 +139,7 @@ WebSockets: Реализую создаю интерактивные функц�
                 `<b>Porten</b>\nСтек: HTML, CSS, JavaScript, Gulp\nКод: <a href="https://github.com/Skullage/Porten">https://github.com/Skullage/Porten</a>\nДемо: <a href="https://skullage.github.io/Porten/">https://skullage.github.io/Porten/</a>`,
                 {
                     parse_mode: 'HTML',
+                    disable_web_page_preview: true,
                 },
             );
             await bot.sendPhoto(
@@ -148,6 +152,7 @@ WebSockets: Реализую создаю интерактивные функц�
                 `<b>Saka</b>\nСтек: HTML, CSS, JavaScript, Gulp\nКод: <a href="https://github.com/Skullage/Saka">https://github.com/Skullage/Saka</a>\nДемо: <a href="https://skullage.github.io/Saka/">https://skullage.github.io/Saka/</a>`,
                 {
                     parse_mode: 'HTML',
+                    disable_web_page_preview: true,
                 },
             );
             await bot.sendPhoto(
@@ -160,6 +165,7 @@ WebSockets: Реализую создаю интерактивные функц�
                 `<b>Play Together</b>\nСтек: HTML, CSS, JavaScript, Vue 3, Vuex, Vue router, Tailwind CSS, Socket.io, Node JS, Express, Vite\nКод: <a href="https://github.com/Skullage/hangman">https://github.com/Skullage/hangman</a>\nДемо: <a href="http://play-together.ru/">http://play-together.ru/</a>`,
                 {
                     parse_mode: 'HTML',
+                    disable_web_page_preview: true,
                 },
             );
             await bot.sendPhoto(
@@ -172,6 +178,7 @@ WebSockets: Реализую создаю интерактивные функц�
                 `Более подробную информацию о проектах вы можете посмотреть на сайте <a href="https://evgeny-dogonadze.vercel.app/#projects">https://evgeny-dogonadze.vercel.app/#projects</a>`,
                 {
                     parse_mode: 'HTML',
+                    disable_web_page_preview: true,
                 },
             );
         } else {
