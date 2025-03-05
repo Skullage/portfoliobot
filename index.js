@@ -170,7 +170,7 @@ WebSockets: Реализую создаю интерактивные функц�
             );
             await bot.sendPhoto(
                 msg.chat.id,
-                `https://evgeny-dogonadze.vercel.app/_vercel/image?url=%2Fimg%2Fportfolio%2Fhangman%2F1.png&w=1536&q=100`,
+                `https://evgeny-dogonadze.vercel.app/_vercel/image?url=%2Fimg%2Fportfolio%2Fhangman%2F1.png&w=1536&q=99`,
             );
 
             await bot.sendMessage(
